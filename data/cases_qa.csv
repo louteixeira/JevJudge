@@ -1,0 +1,420 @@
+evidence,question,answer,label,source_id
+"Foods may also be labeled as gluten-free.. If a product carries a gluten-free label, the Food and Drug Administration requires that the product contain less than 20 parts per million of gluten. Be aware that products labeled wheat-free may still contain gluten. You still need to check the actual ingredient list.
+
+Gluten-Containing Grains and Their Derivatives. 1  Wheat. 2  Varieties and derivatives of wheat such as: wheatberries. durum. 3  Rye. Barley. 4  Triticale. Malt in various forms including: malted barley flour, malted milk or milkshakes, malt extract, malt syrup, malt flavoring, malt vinegar.  Brewer’s Yeast.
+
+Common Foods That Contain Gluten. 1  Pastas: raviolis, dumplings, couscous, and gnocchi. 2  Noodles: ramen, udon, soba (those made with only a percentage of buckwheat flour) chow mein, and egg noodles. 3  Breads and Pastries: croissants, pita, naan, bagels, flatbreads, cornbread, potato bread, muffins, donuts, rolls.",what food contains gluten,"Based on the given passages, foods that contain gluten include wheat, wheatberries, durum, rye, barley, triticale, malted barley flour, malted milk or milkshakes, malt extract, malt syrup, malt flavoring, malt vinegar, pastas (such as raviolis, dumplings, couscous, and gnocchi), noodles (such as ramen, udon, soba made with only a percentage of buckwheat flour, chow mein, and egg noodles), and various breads and pastries (such as croissants, pita, naan, bagels, flatbreads, cornbread, potato bread, muffins, donuts, and rolls).",pass,14713
+"Because it is one of Florida's northernmost cities, Tallahassee has an overall average high temperature of just 79 degrees and an average low of only 56 degrees, making it an ideal vacation destination year-round.
+
+°C | °F. Climate data for tallahassee municipal ap, Longitude: -84.3533, Latitude: 30.3931. Average weather Tallahassee, FL - 32310 - 1981-2010 normals. Jan: January, Feb: February, Mar: March, Apr: April, May: May, Jun: June, Jul: July, Aug: August, Sep: September, Oct: October, Nov: November, Dec: December.
+
+How Often Tallahassee Has Cold Temperatures. Freezing temperatures happen sporadically from November to March at Tallahassee. Two or three nights on average even drop down to 20 °F (-8 °C) or lower. Tallahassee can get a day when the temperature never rises above 32 °F. But this is a rare event that typically occurs just once a decade. Days per month on average in Tallahassee when the minimum temperature drops to 40, 32 or 20 °F or lower.",temperature for tallahassee florida,"Based on the provided passages, the average temperature in Tallahassee, Florida is:
+
+* Average high temperature: 79 °F (26 °C)
+* Average low temperature: 56 °F (13 °C)
+
+Therefore, the answer to the question ""What is the average temperature in Tallahassee, Florida?"" is:
+
+Average temperature in Tallahassee, Florida: 79 °F (26 °C) - 56 °F (13 °C) = 23 °F (12 °C)",fail,15735
+"Relatively unknown to most people, cupping therapy has many health benefits similar to acupuncture. Check out the five biggest cupping benefits.
+
+Some of the cupping massage benefits include the following: 1  Eliminates toxins: A cupping massage is an effective way to get rid of toxins from the body. 2  Improved circulation: Increased blood circulation can also be brought about by cupping. 3  Pain relief: A cupping massage helps reduce inflammation of tissues. This can help increase range of motion, improve flexibility, and control pain. Mental benefits: A cupping massage also has therapeutic benefits like decreasing anxiety and depression.
+
+Some of the cupping massage benefits include the following: Eliminates toxins: A cupping massage is an effective way to get rid of toxins from the body. When a vacuum is created in the cup, a negative pressure is applied.",benefits of cupping massage,"Based on the given passages, the benefits of cupping massage include eliminating toxins from the body, improving circulation, providing pain relief, increasing range of motion and flexibility, controlling pain, and decreasing anxiety and depression.",pass,15272
+"The word “Gemini” is a Latin word for twins and it is one of the constellations that actually look like its name would suggest. The first known reference of the Gemini constellation was in Aristotle’s Meteorologica, over 300 years BC. He mentions that he observed an occulting a star in Gemini and speaks of observing Jupiter in conjunction with it.
+
+Gemini History. The History of Gemini. As other signs in the zodiac, Gemini is not in the same position as the constellation of Gemini. In the zodiac, it follows Taurus and takes the third 30 degrees of the zodiacal circle. Gemini is a mutable sign that is preceding the summer, and as such, it announces change while ruling the time of year when Taurus spring has ended, and life on Earth is about to change.
+
+Gemini Mythology The Story Behind the Gemini Zodiac Sign. The origins of some constellation myths are heavily debated. Gemini mythology, luckily, is pretty straightforward. By all accounts, the twins represented in Gemini mythology are Castor and Pollux of Greek mythology. They share the same mother, Leda (Greek mythology), but have different fathers. Castor's father is Tyndarus, the King of Sparta, and Leda's husband.",history of the word gemini,"The word ""Gemini"" is a Latin word for twins and it is one of the constellations. It was first mentioned in Aristotle's Meteorologica over 300 years BC. The Gemini constellation represents the twins Castor and Pollux from Greek mythology, who share the same mother but have different fathers. Gemini is a mutable sign in the zodiac that follows Taurus and signifies change. The passages do not provide a comprehensive history of the word ""Gemini"" but provide some information about its origins and meaning.",pass,15715
+"Freebase (0.00 / 0 votes) Rate this definition: Leasing. Leasing is a process by which a firm can obtain the use of a certain fixed assets for which it must pay a series of contractual, periodic, tax deductible payments. The lessee is the receiver of the services or the assets under the lease contract and the lessor is the owner of the assets. The relationship between the tenant and the landlord is called a tenancy, and can be for a fixed or an indefinite period of time. The consideration for the lease is called rent.
+
+Freebase(0.00 / 0 votes)Rate this definition: Leasing. Leasing is a process by which a firm can obtain the use of a certain fixed assets for which it must pay a series of contractual, periodic, tax deductible payments. The lessee is the receiver of the services or the assets under the lease contract and the lessor is the owner of the assets.
+
+A lease is a contractual arrangement calling for the lessee to pay the lessor for use of an asset. Property, buildings and vehicles are common assets that are leased. Industrial or business equipment is also leased. Broadly put, a lease agreement is a contract between two parties, the lessor and the lessee. The lessor is the legal owner of the asset; the lessee obtains the right to use the asset in return for regular rental payments. The lessee also agrees to abide by various conditions regardin",leasing meaning,"Based on the provided passages, the definition of leasing can be summarized as follows:
+
+* Leasing is a process where a firm obtains the use of a fixed asset for a period of time in exchange for regular, contractual payments.
+* The lessee is the individual or organization using the asset, while the lessor is the owner of the asset.
+* The lease agreement is a contract between the lessor and the lessee that outlines the terms of the lease, including the duration of the lease, the payment amount, and any other conditions or restrictions.
+* The consideration for the lease is called rent.
+
+Therefore, the answer to the question ""What is leasing?"" is:
+
+Leasing is a process where a firm obtains the use of a fixed asset for a period of time in exchange for regular, contractual payments.",fail,13263
+"· just now. Report Abuse. If you used third-party apps to get into snapchat and they warned you more them 4 times then yes your account is locked :(they warned me 3 times, I changed my password and it did unlock it but on the 4th time I tried and nothing.I'm still waiting though. nancy · 8 months ago. Thumbs up.eport Abuse. My snaps from people started not to download so I logged out I put my username and password in and it was saying I am using third party applications what is third party user and how do I get back into my account. nicole · 9 months ago. Thumbs up. 0. Thumbs down. 0. 1 comment. Loading ...
+
+Snapchat cannot guarantee your security if you use these third party apps, so they may lock your Snapchat account. They will usually send you a message before they do so. However, if you have been locked out of your account and don’t know why, using third party apps may be a reason.If you are using third party apps, at the moment the only thing you can do is to uninstall that app and wait for an official Snapchat app to appear for the Windows Phone.ome people have come back to an old account to find it’s been locked. Others have received an email from Snapchat warning them about third party apps, before being locked out. Also see: How To Use Google Chrome Without Internet Connection. There are many reasons why people are getting locked out of Snapchat.
+
+The Snapchat app is used on an iPhone. Snapchat allows users' messages to vanish after seconds. (Photo by Peter Macdiarmid/Getty Images) | Peter Macdiarmid via Getty Images. We've noticed that you're using a third-party application to access Snapchat, putting yourself (and possibly your friends) at risk.ast month, 200,000 private Snapchat photos were leaked via one of the photo messaging app's many third-party apps. Now, the company is taking steps to punish individuals who use those apps.",why is my snapchat temporarily locked,"Based on the provided passages, here is why your Snapchat account might be temporarily locked:
+
+1. Using third-party apps to access Snapchat without authorization: According to passage 2, Snapchat does not guarantee the security of accounts accessed through third-party apps. If you have been using such apps, it could result in your account being locked.
+2. Exceeding the limit of warnings for third-party app usage: Passage 1 mentions that Snapchat sends warnings before locking accounts that use third-party apps excessively. If you have exceeded the limit of warnings, your account might be temporarily locked.
+
+Therefore, the most likely reason for your Snapchat account being temporarily locked is due to the unauthorized use of third-party apps.",pass,15483
+"Change your postal service address in 1 minute or less. Postal Change of Address Features. 1  Fast: Change of US postal address service in as little as 1 minute. 2  Versatile: Notify up to 100 organizations in addition to the Postal Service ™ (USPS  ®) Secure: Latest encryption technologies ensures your data is safe.
+
+We’ve categorized our forms so you can find what you need quickly and easily. Now you can complete the U.S. Postal Service Official Change of Address form online. Passport instructions, forms, and fee information from the State Department.
+
+You can use this feature if you need to have your business mail forwarded to a new address as a result of a permanent move or temporary relocation. It is especially important to remember to have your mail forwarded if your business has been subjected to a disaster that requires relocation. There are three ways you can change your address: 1.Visit https://moversguide.usps.com/. Safeguard your personal information with identity validation by a simple $1 charge to your credit or debit card. 2.Call the USPS Call Center at 1-800-ASK-USPS (1-800-275-8777). 3.Fill out and submit PS Form 3575, which you can pick up at any U.S. Post Office, and submit it at the Post Office. The form may be submitted at any U.S. Post Office, mailed to any Post Office, or provided to any Postal Mail Carrier.",change of address u.s. postal service,"Based on the given passages, here is the answer to the question:
+
+To change your address with the United States Postal Service (USPS), you can visit the USPS website at https://moversguide.usps.com/, fill out and submit PS Form 3575 at any US Post Office, or call the USPS Call Center at 1-800-ASK-USPS (1-800-275-8777). These methods are available for changing your address due to a permanent move or temporary relocation, and it is especially important to update your address if your business has been affected by a disaster requiring relocation. Additionally, you can use the USPS website to check the status of your address change and view any updates to your account.",fail,15466
+"In a tropical rainforest biome, there are several characteristics that have been identified. They have rainfall that can occur all year long, and often in heavy volume. It is common for them to get at least 100 inches per year. Some areas get up to 400 inches of rain annually.ue to the heat and the moisture of the tropical rainforest biome, the plants and animals that die in this location rot quickly. The decay though offers plenty of rich nutrients for other plants to grow from.
+
+Plants Animals Climate Southeast Asian Rainforests The tropical rain forest is a forest of tall trees in a region of year-round warmth. An average of 50 to 260 inches (125 to 660 cm.) of rain falls yearly. Rain forests belong to the tropical wet climate group.n an average year the climate in a tropical rain forest is very humid because of all the rainfall. A tropical rainforest gets about 150 cm of rain per year. It gets lots of rain because it is very hot and wet in rain forests. The hotter the air, the more water vapor it can hold.
+
+Both vines and ferns grow all over the tropical rainforest biome. They help to connect the various layers found in the biome. For example there are herbs and mushrooms that grow on the floor. Various types of fruits and nuts grow on the plants and in the trees.Bananas grow on the vines in this particular biome as well.ue to the heat and the moisture of the tropical rainforest biome, the plants and animals that die in this location rot quickly. The decay though offers plenty of rich nutrients for other plants to grow from.",what are the characteristics of tropical rainforest floor,"Based on the provided passages, here are the characteristics of the tropical rainforest floor:
+
+1. High levels of rainfall: The passages mention that the tropical rainforest receives a high amount of rainfall throughout the year, with some areas receiving up to 400 inches of rain annually.
+2. High humidity: The climate in the tropical rainforest is very humid due to the high levels of rainfall, with an average humidity level of 70% to 90%.
+3. Decaying plant and animal matter: The passages state that the plants and animals that die in the tropical rainforest rot quickly due to the heat and moisture, providing rich nutrients for other plants to grow.
+4. Diverse vegetation: The passages mention the presence of various types of plants such as ferns, vines, herbs, and mushrooms on the forest floor.
+5. Fruit and nut production: The passages note that various types of fruits and nuts grow on the plants and in the trees, including bananas that grow on the vines.
+
+Therefore, the characteristics of the tropical rainforest floor include high rainfall, high humidity, decaying plant and animal matter, diverse vegetation, and fruit and nut production.",fail,15688
+"Is your company keeping up with the evolution of technology in the workplace? Here are 4 ways technology has modified the modern workplace, for the better. 1. Efficiency and Increased Productivity The modern workplace has experienced a complete shift in how we spend our time.
+
+The continuous evolution of technology is changing the way do business, the dynamics of the workplace and what we perceive is possible. Here are six ways in which technology is transforming that environment. Over the last 10 to 15 years, technology has drastically changed the attitude and processes of the workplace.
+
+Tweet. Technology has dramatically reshaped the average workplace in America over the past couple of decades. The office environment of yesteryear is no longer, and has been taken over by rapid technological advancement, allowing employees to interact with a global market, and even take work out on the road.",how has it technology changed the workplace,"IT technology has significantly changed the workplace in several ways. It has improved efficiency and increased productivity, as it allows for a complete shift in how time is spent in the modern workplace. The continuous evolution of technology also changes how business is conducted and the dynamics of the workplace. Over the last 10 to 15 years, technology has drastically changed attitudes and processes in the workplace. Technology has also dramatically reshaped the average American workplace, allowing employees to interact with a global market and take work on the road.",pass,16662
+"So in other words the trends in India are much more typical than are the trends in Vietnam. And the early focus, which was a very appropriate one at the time, was getting children into school in the first place, which meant basically looking at resources and facilities, setting up schools, training teachers and so on.t the same time the education system in Vietnam is relatively equitable and this means that poorer children really get the same deal as those who are better-off than they are. And they are therefore not less advantaged in the school system. AB: That’s really interesting.
+
+India supported Vietnam's independence from France, opposed American involvement in the Vietnam War, and supported unification of Vietnam. During the Vietnam War, India supported the North, albeit not by conducting military hostilities against the South.he Republic of India and the Socialist Republic of Vietnam enjoy strong bilateral relations. Cultural and economic links between India and Vietnam date back to 2nd century. The Indic Chăm Pa kingdom had some influence on Vietnamese music.
+
+France and the United Kingdom, holding some of the largest colonies in the world, were feeling this wave of nationalism, and both suffered colonial loss around the same time. The United Kingdom lost India in 1947, and France lost the colony of Indochina, modern day Vietnam, shortly after World War II in 1945.The two colonies were both the largest of their colonizers at the time and both were economically most contributing.ollowing decolonization both France and left their respective colonies in similar conditions. After The United Kingdom left India the country became divided between the Hindus, Muslims and Sikhs, which resulted in numerous conflicts.",difference between vietnam and india,"Based on the given passages, it appears that Vietnam and India have different approaches to education. While Vietnam focuses on making its education system relatively equitable for all students, regardless of socioeconomic status, India initially focused on getting children into school. In terms of their political relationship, Vietnam and India support each other's interests, including India's support for Vietnam's independence and its opposition to American involvement in the Vietnam War. However, there does not seem to be any significant cultural or economic links mentioned between the two countries.",fail,12692
+"FIFA 16 Xbox & PC Skill Moves: These button combinations work to execute skill moves on the Xbox 360 & Xbox One consoles and on PC with a controller. Note: Video guides to show what each Skill Move looks like are at the top of this page! • Ball Juggle (while standing) — LT (hold) + RB (tap).
+
+FIFA 16 Skill Moves Tutorials, How to Execute. A guide on commands and executions to help you perform all the skill moves in EA Sports FIFA 16. The skill moves are not new to any FIFA fan. These are the very same flashy moves that we often see our favorite stars pulling off in the field.
+
+Take a look at the complete FIFA 16 Skill Moves guide with a list and tutorial videos showing how to do all Skill Moves in FIFA 16. The all-new PS4, PS3, Xbox One, Xbox 360, PC & Mobile soccer sports game. Let’s take a look at what’s new this year….",how to do the skill moves on fifa 16 for xbox one,"To perform skill moves on FIFA 16 for Xbox One, hold down the LT button while tapping the RB button. This is the command for Ball Juggle when standing. For more information about all the skill moves in FIFA 16, refer to the skill moves tutorials available on the game's website or other resources.",pass,16058
+"The physiological benefits of hugging. Hugs make you feel good for a reason and it's not just the loving embrace that gives us that warm feeling in our hearts. It's much more. It affects the entire body to such an extent that many scientists claim it is equivalent to the effect of many different drugs operating on the body simultaneously.
+
+Empathy and Listening Skills. and. Psychological Hugs. The use of empathy and listening skills--empathic listening--sometimes leads to good relationships, emotional intimacy, and happy marriages. Their use may also lead to a conversation partner feeling like she or he is receiving a hug--a psychological hug..
+
+In a study on fears and self-esteem, research published in the journal Psychological Science revealed that hugs and touch significantly reduce worry of mortality. The studies found that hugging -- even if it was just an inanimate object like a teddy bear -- helps soothe individuals' existential fears.",psychological effects of hugging,"Hugging has physiological benefits and can have a similar effect on the body as certain drugs. It can also lead to emotional intimacy and happy relationships. Hugging and touch, even with inanimate objects, can help reduce existential fears and worry about mortality.",pass,13153
+"Begin Sewing Binding to the Quilt Use my step-by-step instructions to learn how to sew mitered binding to the edges of a quilt. Trim the quilt sandwich to remove excess batting and backing. If the quilt top is skewed, fold back the other two layers and use a rotary ruler to very carefully square up the quilt.
+
+The Timepiece Quilt used in this tutorial measures 56 inches by 70 inches, but this method can be used on any size quilt. 1  Step 1: Lay your quilt on a bed, table or other flat surface. 2  Step 2: Fold the lower right corner up toward the center of the quilt making sure the fold is on the bias.
+
+Step 3: Fold the lower left corner up toward the center of the quilt making sure the fold is on the bias. Step 4: Fold the top left corner down toward the center of the quilt making sure the fold is on the bias. Step 5: Making sure the fold is on the bias, fold the top right corner down toward the center of the quilt.",how to fold a quilt,"Based on the given passages, here are the steps to fold a quilt:
+
+1. Lay the quilt on a flat surface.
+2. Fold the lower right corner up towards the center of the quilt, ensuring the fold is on the bias.
+3. Fold the lower left corner up towards the center of the quilt, also on the bias.
+4. Fold the top left corner down towards the center of the quilt, again on the bias.
+5. Fold the top right corner down towards the center of the quilt, again on the bias.
+
+These steps will result in a neatly folded quilt with four even corners. Note that the size of the quilt is not specified in the passages, so these steps can be applied to quilts of any size.",pass,12220
+"9. Get help from a doctor now ›. Medication duration: Succinate (toprol) is the long acting form of metoprolol where as tartrate (lopressor) is the shorter acting form. Toprol can be taken once a day and Lopressor is usually taken at least twice a day....Read more.Great you're all set!. Get help from a doctor now ›. Medication duration: Succinate (toprol) is the long acting form of metoprolol where as tartrate (lopressor) is the shorter acting form. Toprol can be taken once a day and Lopressor is usually taken at least twice a day.
+
+Tartrate vs Succinate. The key difference between tartrate and succinate is that succinate is derived from the succinic acid and tartrate is derived from the tartaric acid. These two chemical substances are widely used in the beverage industry and drug manufacturing.Succinic acid is ethan-1,2-dicarboxylic acid. Succinate form of metoprolol is an extended release drug and it plays its role in the circulatory system for 24 hours. However, the tartrate form of metoprolol does not appear in the blood stream for 24 hours because metoprolol tartrate is an immediate-release drug.
+
+Release time. The primary difference between metoprolol succinate and metoprolol tartrate is the length of time that the drugs stay in your bloodstream. Metoprolol succinate will stay in a person's bloodstream for 24 complete hours. This means that the medication is a once per day pill.Metoprolol tartrate, on the other hand, will not stay in the bloodstream as long and thus needs to be taken at regular intervals.etoprolol succinate has a greater dehydrating effect. Thus, the side effects constipation and dry mouth are primarily associated with this version of the medication. Conversely, metoprolol tartrate may cause diarrhea. It also has the potential to cause sleep issues such as insomnia or unusual dreams.",what is the difference between tartate and succinate,"Based on the provided passages, the main differences between tartrate and succinate are:
+
+1. Duration of action: Metoprolol succinate stays in the bloodstream for 24 hours, while metoprolol tartrate does not stay in the bloodstream as long and needs to be taken at regular intervals.
+2. Formation: Succinate is derived from succinic acid, while tartrate is derived from tartaric acid.
+
+Therefore, the answer to the question is:
+
+Difference between tartate and succinate: Succinate is derived from succinic acid, while tartrate is derived from tartaric acid; Succinate stays in the bloodstream for 24 hours, while tartrate does not.",pass,12015
+"1 Using a leather conditioner is especially important if you wash your Sperry shoes with detergent. 2  Detergent has a tendency to dry the leather out, and conditioner will help to revitalize the leather, infusing moisture back into it. 3  Reassemble the shoes when done.
+
+Best Answer: Sure you can get your topsiders wet-its no big deal. If you've got the regular, dark brown ones I wouldn't think twice about it. If you've got the light tan ones, water might stain them, but I doubt it.
+
+Pick up a suede bar & leather brush (a cleaning toothbrush will also work). They are between $5-$10. I always get annoyed when shoe stores try to sell me the associated accoutrements with my shoes but in this case I’d say it’s worth it. You can’t handle a stain on these shoes otherwise and they really do work.",what do i do if i got my sperrys wet,"Based on the given passages, if your Sperry shoes get wet, it is recommended to use a leather conditioner to help revitalize the leather and infuse moisture back into it. This is especially important if you wash your shoes with detergent, as it tends to dry out the leather. If you don't have a leather conditioner on hand, you can use a suede bar or leather brush to clean the shoes. It's best to avoid getting light tan Sperry shoes wet, as water might stain them. However, if you do get them wet, using a suede bar or leather brush should help remove any stains.",pass,16148
+"The difference between the two is that Porterhouse steaks are cut from further back on the sirloin and therefore contains a bit more of the tenderloin or fillet than T-Bone steaks and there’s a corresponding price difference.-Bone and Porterhouse cuts of steaks are prepared in a similar way, involving a vertical cut that encompasses elements of both the fillet and front of the sirloin (what the Americans call the short loin) on either side of a distinctive T shaped bone.
+
+T-Bone Versus Porterhouse Steaks. T-Bone steaks and Porterhouse steaks are the same. The Porterhouse is just a larger version of the T-Bone because it is carved from the larger portion of the tenderloin.A Porterhouse is the King of the T-Bones. Diagram Showing Beef Cuts Both are cut from the short loin area of the beef.-Bone Versus Porterhouse Steaks. T-Bone steaks and Porterhouse steaks are the same. The Porterhouse is just a larger version of the T-Bone because it is carved from the larger portion of the tenderloin.
+
+The sirloin steak is a steak cut from the back of the animal. In a common U.S. butchery, the steak is cut from the rear back portion of the animal, continuing off the short loin from which T-bone, porterhouse, and club steaks are cut.The sirloin is actually divided into several types of steak.n a common U.S. butchery, the steak is cut from the rear back portion of the animal, continuing off the short loin from which T-bone, porterhouse, and club steaks are cut. The sirloin is actually divided into several types of steak.",what is the difference between sirloin steak and porterhouse steak,"Based on the given passages, here's the difference between sirloin steak and porterhouse steak:
+
+According to passage 1, Porterhouse steaks are cut from further back on the sirloin and contain a bit more of the tenderloin or fillet than T-Bone steaks. This results in a corresponding price difference.
+
+Passage 2 confirms that T-Bone and Porterhouse steaks are the same, with the Porterhouse being a larger version of the T-Bone due to its larger portion of the tenderloin.
+
+Passage 3 does not provide any information related to the difference between sirloin steak and porterhouse steak.
+
+Therefore, the main difference between sirloin steak and porterhouse steak is the size and the amount of tenderloin or fillet included in the cut, with porterhouse steak being larger and containing more tenderloin.",fail,15712
+"If you have oil stains from your car on a concrete driveway, there are a few different ways to remove them.In this video I compare using oven cleaner, goop hand cleaner, and carburetor cleaner.lease try again later. Here's how to remove oil stains from concrete. If you have oil stains from your car on a concrete driveway, there are a few different ways to remove them. In this video I compare using oven cleaner, goop hand cleaner, and carburetor cleaner.
+
+5. Clean the area with oil stains with water from a hose or bucket. Prior to cleaning the pavement wash off any dirt and debris that is in the way of the oil stain on your driveway. However, do not use a high pressure hose to clean off the affected area, because you could end up pushing the oil deeper into the pavement.epending on what kind of stain you have you will use different methods for cleaning the oil off your driveway. 1  If you have an oil stain that is still fresh or if you have a small and stubborn stain, you may want to use the poultice method to get out your stain.
+
+No matter how hard you try, oil stains on your concrete driveway are nearly impossible to avoid. There are several methods for cleaning these stains, though the size of the oil spill and length of time the stain has had to set will determine the process for removal.irst, apply a commercial-grade cleaner to the oil stain and scrub with a brush or broom. Then add detergent to your pressure washer and begin spraying. Move at an even pace and keep the nozzle at the same distance from the surface of the concrete at all times to ensure that no streaking occurs.",oil stain on concrete driveway,"To remove an oil stain from a concrete driveway, one can use a combination of water, a commercial-grade cleaner, and a brush or broom to scrub the area. Additionally, applying a poultice method or using a high-pressure hose can also be effective depending on the type and size of the stain. It is important to avoid using a high-pressure hose as it may push the oil deeper into the pavement.",fail,13442
+"1 Hiring a remodeling contractor to build a second floor addition can run $100-$300 a square foot for the typical addition (2-3 bedrooms and a bath plus a flight of stairs), but can go as high as $400-$500 per square foot depending on complexity, quality of materials and local labor rates.uilding a second floor (also called a second story) can added much-needed space, but costs at least 20 percent more than building the same square footage at ground level. However. if you don't have the land to build out it can make sense to go up. Typical costs:
+
+Our free calculator uses recent, trusted data to estimate costs for your Carpet Installation project. For a basic 250 square feet project in zip code 47474, the benchmark cost to Install Carpet ranges between $3.74 - $4.83 per square foot* . To estimate costs for your project:1.Set Project Zip Code Enter the Zip Code for the location where labor is hired and materials purchased.2.ur free calculator uses recent, trusted data to estimate costs for your Carpet Installation project. For a basic 250 square feet project in zip code 47474, the benchmark cost to Install Carpet ranges between $3.74 - $4.83 per square foot* . To estimate costs for your project:
+
+Ground-Level Decks. Cut the cost of a deck significantly by building it as close to the ground as possible. A 16 x 20-foot pressure-treated deck with no more than three or four stairs costs around $30 per square foot, or $9,539, according to a 2014 report by Remodeling magazine.round-Level Decks. Cut the cost of a deck significantly by building it as close to the ground as possible. A 16 x 20-foot pressure-treated deck with no more than three or four stairs costs around $30 per square foot, or $9,539, according to a 2014 report by Remodeling magazine.",avg cost to install a second floor in a house,"Based on the provided passages, the average cost to install a second floor in a house can range from $100 to $400 per square foot, with a total cost of at least 20% more than building the same square footage at ground level. The exact cost will depend on factors such as the complexity of the addition, the quality of materials used, and local labor rates.
+
+For example, according to Passage 1, the cost of hiring a remodeling contractor to build a second floor addition can range from $100 to $300 per square foot, depending on the complexity of the addition and the location. Similarly, Passage 2 provides a cost range of $3.74 to $4.83 per square foot for installing carpet, which suggests that the cost of other materials and labor for a second floor installation could be similar.
+
+However, Passage 3 provides a specific cost estimate for a ground-level deck of $30 per square foot, which may not directly apply to a second floor installation. Nonetheless, this passage does provide some insight into the overall cost range for a deck construction project, which could be used as a rough estimate for the cost of a second floor installation.
+
+Overall, based on the information provided in the passages, it is difficult to give an exact answer to the question without additional context or details about the specific project. If you have any further questions or require more detailed estimates, please let me know.",fail,14283
+"A compensating resumption of fast growth returns to the pine sapling around age seven. 1  List. 2  Article. 3  Article. 4  List. 5  Article. 6  Article. 7  Article. 8  Article.
+
+Fire is the mechanism by which the forest is continually regenerated, states Hall. Fires consume dead, decaying vegetation accumulating on the forest floor, thereby clearing the way for new growth. Some species, such as the jack pine, even rely on fire to spread their seeds. The jack pine produces seratonous (resin-filled) cones that are very durable. The cones remain dormant until a fire occurs and melts the resin. Then the cones pop open and the seeds fall or blow out. In the Canadian boreal forest, aspen and jack pine are the most important ‘pioneer species’, observes Hall.
+
+Spruce have better access to sunlight while shading the other trees with their more dense canopies. Consequently, the jack pine and aspen begin dying out in regions where spruce trees are plentiful. But, should another fire come and disturb this cycle, the more fire-tolerant jack pine and aspen regain the advantage and again proliferate.",how are forest fires beneficial to conifers like jack pines?,"Based on the given passages, it appears that forest fires are beneficial to conifers like jack pines because they help to clear away dead vegetation and promote new growth. According to passage 2, the jack pine produces serotonous cones that are dormant until a fire occurs, at which point they melt and release their seeds. This suggests that fire is a mechanism for the dispersal of jack pine seeds, and that the tree relies on fires to spread its seeds. Additionally, passage 3 suggests that while spruce trees may outcompete jack pine and aspen in some areas, fires can disrupt this cycle and allow jack pine and aspen to regain an advantage. Therefore, it seems that fires play a role in promoting the growth and survival of jack pine and other pioneer species in the boreal forest.",pass,15179
+"Talk to a lawyer about work laws. In general, you have to pay overtime if you schedule an employee more than 40 hours per week. There may be other laws that you have to follow, such as restrictions when your employees are younger than age 18.
+
+You can make an employee schedule using scheduling software, a simple word processing program or a sheet of paper. Here's what to do: 1  Make a list of all your employees and the duties they can perform [source: Coleman 2  ]. Make a chart of the work days and the hours for each day.
+
+Print out copies for employees or send schedules to employee email accounts. Keep a master schedule for to make any changes. Microsoft Excel allows you to create a work schedule for multiple employees so you can continue to use the schedule template as your business grows.",how to do employee schedules,"Sure! Here's a brief answer to the question ""How to do employee schedules"" based on the given passages:
+
+To create an employee schedule, follow these steps:
+
+1. Consult with a lawyer to ensure compliance with labor laws, such as paying overtime for hours worked beyond 40 hours per week and adhering to restrictions for minors.
+2. Use scheduling software, a word processing program, or a sheet of paper to create a list of employees and their duties, and a chart of work days and hours.
+3. Print or email copies of the schedule to employees and maintain a master copy for making changes. Consider using Microsoft Excel to create a versatile and easily editable schedule template.
+
+If you have any further questions or concerns, please let me know!",pass,16565
+"In fact, homemade texture or decorative paint rollers can work better than the commercial variety because many faux finishes rely on applying a random pattern of texture to your walls, and commercial texture rollers apply paint with a set pattern.
+
+I have been using the Dermaroller for a couple of months now and I think it does make a difference in my skin. I have been using the 1mm and it seems like it works better on my face than my neck and chest. When I tried the 1mm on those areas, they got super red, so I stopped. It seems like it is stimulating my skin and it looks younger and I have noticed that it has more of a healthy glow as well. We have so many before and after pictures on our site, so I can see that it does work as well. I have found that they do work best with the serums or moisturizers used right after. We do have a great kit that is perfect for anti-aging.
+
+Basic Texture Roller. Place a roller pad with 1-inch or thicker nap (padding) on a roller frame. An old pad that has been used and not thoroughly cleaned (so some of the tufts clump together) works best for this. Stretch and twist rubber bands around the pad at a variety of angles, creating clumps and random patterns with tufts and lines. Apply paint to your walls with this roller as you would with any roller, but slightly adjust the rubber bands periodically as you work to renew the texture.",how well do patterned rollers work,"Based on the provided passages, here's what we can conclude about how well patterned rollers work:
+
+Passage 1 suggests that homemade texture or decorative paint rollers can work better than commercial ones for certain faux finishes because they can create a random pattern of texture.
+
+Passage 2 provides a personal testimonial about the effectiveness of the Dermaroller for improving the appearance of skin. The writer claims that it makes their skin look younger and healthier, and that it works best when used with serums or moisturizers. However, there is no direct mention of patterned rollers in this passage.
+
+Passage 3 provides instructions for creating a basic texture roller using an old roller pad with clumped tufts and random patterns created by stretching and twisting rubber bands. This passage suggests that patterned rollers can create a textured finish on walls, but there is no information on how effective they are or how well they work.
+
+Therefore, based on the given passages, it is difficult to say definitively how well patterned rollers work. Passage 1 suggests that they may be effective for certain applications, while passage 2 provides a personal endorsement of a specific product (Dermaroller) for improving skin appearance. Passage 3 provides instructions for creating a basic texture roller, but does not provide any information on its effectiveness. Therefore, the answer to the original question is: Unable to answer based on given passages.",pass,14326
+"1. Shine silver. Tarnish is the enemy, and here are your weapons: For items that are merely dull, filmy or starting to discolor, mix a few drops of mild dish soap with warm water and dip in a soft cloth. Rub the jewelry, then rinse in cool water and buff with a cloth until dry. For heavier tarnish, mix a paste of three parts baking soda to one part water. Wet the silver and apply the cleaner with a soft, lint-free cloth (not paper towels, which can scratch).
+
+The best way to clean a diamond is with warm soapy water and a soft-bristle brush or old toothbrush, says Loretta Castoro, vice president and international jewelry buyer for Jewelry Television. Pat it dry with a soft cloth.
+
+Pour two cups of hot water into a bowl. You just need enough to cover the jewelry you're cleaning. This method works as a gentle cleanser that removes tarnish without abrading the silver. If your silver is lightly tarnished, the salt bath should take the tarnish right off. If you're cleaning a lot of jewelry at once, you can use more water. For just one piece of jewelry, use less water. If your jewelry has gemstones, make sure they won't be affected by being submerged in a saltwater solution.",how to clean tarnished jewelry at home,"To clean tarnished jewelry at home, you can follow these steps:
+
+For items that are merely dull, filmy or starting to discolor, mix a few drops of mild dish soap with warm water and dip in a soft cloth. Rub the jewelry, then rinse in cool water and buff with a cloth until dry.
+
+For heavier tarnish, mix a paste of three parts baking soda to one part water. Wet the silver and apply the cleaner with a soft, lint-free cloth (not paper towels, which can scratch).
+
+To clean a diamond, use warm soapy water and a soft-bristle brush or old toothbrush. Rinse in cool water and pat dry with a soft cloth.
+
+If your silver is lightly tarnished, a salt bath should take the tarnish right off. Pour two cups of hot water into a bowl, cover the jewelry with the water, and let it sit for an hour. For just one piece of jewelry, use less water. If you're cleaning a lot of jewelry at once, you can use more water. For gemstone jewelry, make sure that the stones won't be affected by being submerged in a saltwater solution.",fail,15104
+"1 If hot water and mild detergent can’t get your glasses clean, use baking soda to remove any stubborn wine residue. 2  Dissolve a small amount of soda with hot water and let it stand in the glass for a few minutes. 3  The soda will dissolve any residual wine adhering to the glass.
+
+3. To clean the inside of a glass, use a stemware brush with soft-foam bristles. 4. After rinsing thoroughly with hot water, dry the wine glasses with a smooth lint-free cloth, such as a microfiber or flour sack towel. Editor's Tip: Red wine can leave stains if left overnight.
+
+Clean Your Wine Glasses by Hand. The safest cleaning method for your wine glasses is to scrub them by hand. Follow these tips to avoid chips and spots. 1. Lay a towel in the sink before filling with hot water. Wash one wine glass at a time to avoid damage. 2. To keep soap from flavoring your next glass of wine, use a small amount of detergent and use it only where it's needed -- in the bottom of the glass and around the rim. Cradle the bowl of the glass in one hand while washing to protect the stem.",how to wash wine glasses properly,"To wash wine glasses properly, follow these steps:
+
+1. Fill a sink with hot water and add a small amount of mild detergent.
+2. Place a towel in the sink to protect the glasses from scratches.
+3. Wash one wine glass at a time, cradling the bowl in one hand and using a stemware brush with soft-foam bristles to clean the inside.
+4. Use a small amount of detergent, only where necessary, to avoid contaminating the wine.
+5. Rinse the glass thoroughly with hot water.
+6. Dry the glass with a smooth lint-free cloth, such as a microfiber or flour sack towel.
+7. For stubborn wine residue, dissolve a small amount of baking soda in hot water and let it stand in the glass for a few minutes before rinsing and drying.
+
+If red wine has been left overnight, it may have left stains. In this case, use a gentle wine cleaner or decanter to remove the stains before washing the glass.",fail,13367
+"1. Cut large, sprouted potatoes into chunks with two or three eyes each, using a sharp knife, being careful to not break the long sprouts. Place the potato chunks on a tray or cookie sheet, and set them in a cool, dark location overnight so the cut ends can dry out. Small potatoes can be planted whole.ater the potatoes thoroughly. Continue watering regularly when the soil is dry to the touch. Add a 4-inch layer of mulch around the plants, pulling it back at least 4 inches from the sprouting potato vines. Mulch keeps the soil cool while maintaining a consistent moisture level.
+
+Overview. Sometimes, even with the best intentions, seed potatoes begin to sprout because you haven't been able to get them in the ground.This can be due to weather conditions or simply because you haven't readied the garden space in time.Seed potatoes go through three stages: young seed, middle aged and old.verview. Sometimes, even with the best intentions, seed potatoes begin to sprout because you haven't been able to get them in the ground.
+
+Instructions. Turn the soil over in your planned planting area with a hoe or tiller to a depth of 12 inches and break the dirt up finely. Remove any large rocks and other debris while hoeing. Dig a trench about 4 inches wide and 6 to 8 inches deep.If you're going to plant more than one row, space them apart by about 24 to 36 inches.Cut your potatoes into cubes, about 1 to 2 inches on each side, leaving a sprout on each cube. Nonsprouted sections should have two or three eyes on each.Place the cubes into the bottom of the trench, separating each cube from the other by about 6 to 8 inches. Place the sprouted or eye side of the cubes facing up.Cover the potatoes with a layer of compost and then replace the dirt on top of the plantings.nstructions. Turn the soil over in your planned planting area with a hoe or tiller to a depth of 12 inches and break the dirt up finely. Remove any large rocks and other debris while hoeing. Dig a trench about 4 inches wide and 6 to 8 inches deep.",how to plant a potato that has sprouted,"Based on the given passages, here's how to plant a potato that has sprouted:
+
+1. Cut the sprouted potato into chunks, making sure each chunk has two or three eyes and is about 1-2 inches on each side.
+2. Allow the cut potato chunks to dry overnight in a cool, dark location.
+3. Prepare a trench in well-draining soil, about 4-6 inches deep and 24-36 inches apart for multiple rows.
+4. Place the potato chunks in the trench, eye-side up, and cover with a layer of compost.
+5. Replace the soil on top of the plantings and water thoroughly.
+6. Keep the soil consistently moist and add a 4-inch layer of mulch around the base of the plants, pulling it back at least 4 inches from the sprouting potato vines.
+
+So, to summarize, you should cut the sprouted potato into chunks, allow them to dry overnight, prepare a trench, plant the chunks eye-side up, cover with compost, replace the soil, and keep the soil consistently moist.",fail,16883
+"A lot of children enjoy water play, especially outside during the warmer months of the year! There are so many great benefits from water play. Water play helps a child with gross motor skills. During water play, the children may be running through sprinklers or filling buckets up with water and pouring the water out. Water play also helps with academic learning as well. As far as science, the children are able to learn about floating and sinking and seeing that different objects can sink and float. In math, children are able to learn about measuring a certain amount of water into a bucket, more and less by filling one bucket with more water and one bucket with less water. Water play also encourages creativity. The children are able to pretend and use their imagination, while playing with the water.
+
+To make the most of water play the teacher needs to be an enabler. Structure the center so children have interesting, challenging, and puzzling materials to stimulate their active play. Sometimes, post open-ended questions, engage in active listening, model the use of new vocabulary, encourage prediction, and thoughtfully observe what children do.
+
+Water is not just for washing, and it is not just for ducks. Water is for children to enjoy and learn from! 25 Great Ideas for Promoting Discovery Learning in Water Play. Fill the water table with ice cubes, and provide shakers of salt and lengths of string. Suspend a funnel low, over the water table.",what do children learn with water play,"Children learn various skills and concepts through water play, including:
+
+* Gross motor skills: Running, pouring, and carrying water helps develop physical coordination and strength.
+* Science: Children learn about buoyancy, density, and other scientific principles by observing how different objects float and sink in water.
+* Math: Measuring water and comparing quantities helps children understand mathematical concepts such as volume, capacity, and fractions.
+* Creativity: Water play encourages imaginative play, allowing children to experiment, explore, and express themselves through movement and sound.
+* Problem-solving: Water play presents various challenges, such as building dams, creating currents, and mixing colors, which help children develop critical thinking and problem-solving skills.
+* Collaboration: Water play often involves group activities, fostering teamwork, communication, and social skills.
+
+Answer based on given passages.",fail,17255
+"Your carbon footprint measures the environmental impact of your lifestyle. Everything you do has an impact --- positive or negative --- on the environment. That's the concept behind your carbon footprint, which is one method of measuring the environmental effect of your lifestyle. A carbon footprint, measured in tons, indicates the amount of carbon dioxide and other greenhouse gases that are produced as a result of your daily activities. You can reduce your footprint by changing the way you live your life. Even seemingly tiny changes can make a significant difference.
+
+It all comes back to the average carbon footprint. The average per capita carbon footprint is 6 tons per year. In the U.S. the average is 20 tons per year, and a third of that is created by automobile emissions -- meaning your car itself can put out over 6 tons of C02 a year -- enough for two people.
+
+So what exactly is a carbon footprint? In simplest terms, carbon footprint is the total amount of greenhouse gases produced by various human activities within a given time frame. Carbon footprint is usually measured in tons of carbon dioxide (CO2) released into the atmosphere. Your home has a carbon footprint if you use oil, coal or gas to heat it. That cheeseburger at your favorite restaurant has a carbon footprint: raising the beef and wheat and operating the restaurant all involves greenhouse gases. Your car has a carbon footprint, dependent on the vehicle’s fuel consumption and driving distance.",what is the effect of carbon footprint,"Based on the provided passages, the effect of carbon footprint is:
+
+Passage 1 states that carbon footprint measures the environmental impact of one's lifestyle and that even seemingly tiny changes can make a significant difference in reducing one's footprint.
+
+Passage 2 mentions that the average per capita carbon footprint is 6 tons per year, with a third of that created by automobile emissions.
+
+Passage 3 defines carbon footprint as the total amount of greenhouse gases produced by various human activities within a given time frame, and explains that different activities such as heating a home, eating food, and driving a car have a carbon footprint.
+
+Therefore, the effect of carbon footprint is that it measures the environmental impact of one's lifestyle and can be reduced by making changes to daily activities such as using alternative energy sources, conserving energy, and reducing meat consumption.",fail,14295
+"1 Preheat an outdoor grill for medium heat, and lightly oil the grate.  In a bowl, mix together the seasoned salt, black pepper, garlic powder, onion powder, paprika, Worcestershire sauce, and smoke flavoring until thoroughly combined. Rinse pork chops, and sprinkle the wet chops on both sides with the spice mixture.
+
+3) Oven-Fried Pork Chops. The secret ingredient in this top-rated recipe is stuffing mix for the breading! The pork chops come out tender and juicy. Perfect for a busy weeknight, these tasty chops are ready in just 30 minutes. It takes just 10 minutes to prep.
+
+1 Rinse pork chops, and sprinkle the wet chops on both sides with the spice mixture. With your hands, massage the spice rub into the meat; allow to stand for 10 minutes.  Grill the chops over indirect heat until no longer pink inside, about 12 minutes per side.","how to grill pork chops, allrecipes.com","Based on the given passages, here's how you can grill pork chops:
+
+1. Preheat the grill to medium heat.
+2. Season the pork chops with a spice mixture of seasoned salt, black pepper, garlic powder, onion powder, paprika, Worcestershire sauce, and smoke flavoring.
+3. Allow the pork chops to stand for 10 minutes after sprinkling the spice mixture on both sides.
+4. Grill the pork chops over indirect heat until they are no longer pink inside, which should take around 12 minutes per side.
+
+Note that the passages do not mention the specific temperature or cooking time for the pork chops. However, it is recommended to use a meat thermometer to ensure the pork chops reach an internal temperature of at least 145°F (63°C) for medium-rare, 160°F (71°C) for medium, and 170°F (77°C) for well-done.",fail,13564
+"An ad hominem (Latin for to the man or to the person), short for argumentum ad hominem, is an attack on an argument made by attacking the character, motive, or other attribute of the person making the argument, rather than attacking the argument directly.
+
+Abusive ad hominem usually involves attacking the traits of an opponent as a means to invalidate their arguments. Equating someone's character with the soundness of their argument is a logical fallacy.
+
+Poisoning the Well Fallacy. Poisoning the well is an ad hominem attack (see “Ad hominem,” above) on a person’s integrity or intelligence that takes place before the merits of a case can be considered. It redirects a discussion to the faults of one of the parties.",What’s the difference between ad hominem fallacy and the poisoning the well fallacy?,"Based on the provided passages, the main difference between ad hominem fallacy and poisoning the well fallacy is the timing of the attack.
+
+Ad hominem fallacy occurs when an attack is made on a person's character, motive, or other attribute directly related to their argument, rather than attacking the argument itself. This type of attack can happen at any point during a debate or discussion.
+
+On the other hand, poisoning the well fallacy involves making an ad hominem attack (i.e., attacking a person's character or integrity) before the merits of a case can be considered. In other words, it is an attempt to discredit a person's argument by attacking their personal integrity or intelligence before the discussion has even begun.
+
+So, while both fallacies involve attacking a person's character rather than their argument, ad hominem fallacy happens after the argument has been presented, while poisoning the well fallacy happens before the argument is even presented.",fail,14511
+"Report Abuse. Here, they charge a certain amount from your credit card to establish a balance (it's $100 for the EZ-Tag, $25 for the TX-Tag). They deduct the tolls from that balance till the balance goes below a certain value ($10 for the TX-Tag) and they charge your credit card another $100, or $25, to increase your balance.
+
+E-ZPASS CUSTOMER WARNING – EMAIL PHISHING SCAM. If you received email that appears to be part of the E-ZPass Phishing Scam, we encourage you to file a complaint with the Internet Crime Complaint Center (IC3).
+
+How does E-ZPass® work? As your vehicle enters the toll lane, the toll tag (1) that is mounted on your vehicle's windshield is read by the antennae (2). As your vehicle passes through, your E-ZPass® account is charged the proper amount. Feedback is provided to you on an electronic display (3). If your vehicle does not have a toll tag, the system classifies you as a violator and cameras take photos of your license plate for processing.",how does ez pass charges work,"Based on the given passages, here's how E-Z Pass charges work:
+
+When you sign up for E-Z Pass, a certain amount (specifically $100 for the EZ-Tag or $25 for the TX-Tag) is charged to your credit card to establish a balance. As you drive through tolls, the system deducts the toll amounts from your balance until it reaches a certain threshold ($10 for the TX-Tag). When your balance falls below this threshold, your credit card is automatically charged again to increase your balance. This process continues until your account is closed or your balance is depleted.",fail,15755
+"If You Were Born Today, October 14: You have a great interest in, and eye for, form and structure. You would make a good architect, interior decorator, designer, or any profession that combines art and structure.
+
+Born Today: Personality Profiles. What follows are general characteristics for people born on a date in any birth year, based on Astrology, Numerology, and Cartomancy. If You Were Born Today, October 1: You are a success-oriented, charming, and personally powerful individual. You are at your best when you are in control, your own boss, or working on your own. However, you get along with others and have the necessary “people skills” to do so, although occasionally your impatience comes through!
+
+Famous people born today: Charlton Heston, Jackie Collins, Anne Rice, Susan Sarandon, Alicia Silverstone, Rachael Leigh Cook, Buster Keaton. If You Were Born Today, October 5: Although restless at heart, you are a person who craves stability and security. This is why you work so hard at whatever you do.",what traits do people have that are born in october?,"Based on the provided passages, here are some traits associated with people born in October:
+
+* Interest in form and structure (Passage 1)
+* Success-oriented, charming, and personally powerful individuals (Passage 2)
+* Crave stability and security (Passage 3)
+
+It's important to note that these are generalizations and may not apply to every individual born in October. Additionally, it's worth mentioning that the passages provide insights into personality traits based on astrology, numerology, and cartomancy, which are not scientifically proven methods of predicting personality.",pass,15789
+"The new flapper valve and chain for a 1.6 gallon per flush toilet. Step 1: Shutoff the water supply valve to the toilet. Step 2: Remove the old flapper valve by slipping it off the mounting arms. Remove what’s left of the broken lift chain from the lift arm.
+
+Step 4: Open the water valve to fill the tank. Flush the toilet to check for correct operation. If needed, readjust the lift chain by moving the metal clip up or down a couple of links. When you’re satisfied, cut off the excess lift chain to prevent it from getting tangled.
+
+Push the small solid end of the toilet lift arm into the flush handle. If a screw is included with your part, screw it in tightly. Push it until there is no more give and it is secure. The other end will hang freely in the air. Connect the chain to the third hole on the lift arm. This is the hole closest to the edge of the lift arm. Use the pliers to make sure it is securely fastened. Turn the water valve back on and test out the flush of the toilet. If the toilet flushes slowly, adjust the chain to make it a little tighter on the lift arm.",how to fix lift valve in toilet,"Based on the provided passages, here's how to fix a lift valve in a toilet:
+
+1. Shut off the water supply valve to the toilet before starting the repair (Passage 1).
+2. Remove the old flapper valve by slipping it off the mounting arms, and remove any remaining broken lift chain from the lift arm (Passage 1).
+3. Open the water valve to fill the tank and flush the toilet to check for correct operation. If necessary, readjust the lift chain by moving the metal clip up or down a couple of links (Passage 2).
+4. Connect the chain to the third hole on the lift arm, which is the hole closest to the edge of the lift arm (Passage 3). Secure it using pliers to ensure it is tightly fastened.
+5. Turn the water valve back on and test the toilet's flush function. If the toilet flushes slowly, adjust the chain to make it a little tighter on the lift arm (Passage 3).
+
+Unable to answer based on the given passages. The passages do not provide instructions on how to fix a specific issue with the lift valve, such as a stuck or leaking valve.",pass,13431
+"Page 1 of 2 Compliments of: Bob Bartelme Backwoods Tin & Copper, LLC Creating a Pattern to make a Cone (Frustum of a Cone) Step By Step Instructions Step Visual Aid 1. Draw the shape you want to make. Example: A cone with a 6” diameter base, a height of 5 inches and a top diameter of 3.50 inches.
+
+The truncated cone is a lot like a lampshade. I've drawn one below with some helping lines labelled t, b, h and w : So t is the diameter of the circular top of the cone, b is the diameter of the circular bottom, h is the height of the cone and w is the diagonal width. You have measurements for all these except w.
+
+The diameter of the base will be 2 inches and the diameter of the top will be .25 inches. The height will be 7 inches. As before, think about extending the conical figure up to a point and put it Paula's numbers. That is, this pedestal is formed by cutting off a cone with a base having a diameter of .25 inches.",how to draw a truncated cone in geogebra,"To draw a truncated cone in GeoGebra using the given instructions, follow these steps:
+
+1. Draw a circle with a diameter of 6 inches for the base of the cone. Label this as the variable ""b"".
+2. Draw another smaller circle within the first circle, centered at the top of the first circle. Label this as the variable ""t"".
+3. Draw a vertical line from the center of the second circle downwards to the center of the first circle. Label this line as the variable ""h"".
+4. Use the ""Circle"" tool in GeoGebra to draw a third smaller circle at the top of the second circle. This circle represents the top of the cone. Label this as the variable ""w"".
+5. Use the ""Line"" tool in GeoGebra to connect the two circles representing the base of the cone and the top of the cone. This line represents the sides of the truncated cone.
+6. Finally, use the ""Line"" tool in GeoGebra to connect the top of the cone to the bottom of the cone. This line represents the height of the truncated cone.
+
+Based on the given passages, here are the measurements for the truncated cone:
+
+* Base diameter: 6 inches
+* Top diameter: 3.50 inches
+* Height: 5 inches
+
+However, the passages also provide additional information that can be used to adjust the dimensions of the truncated cone as needed. For example, the diameter of the base can be adjusted to 2 inches, the diameter of the top can be adjusted to .25 inches, and the height can be adjusted to 7 inches.",fail,16418
+"DMSO is dimethyl sulfoxide, a by-product in converting trees to paper. It has industrial uses as an antifreeze and as a solvent for a wide range of chemicals. There are also a wide range of medical uses. It has a remarkable capacity to penetrate skin and tissue and enter the bloodstream.
+
+DMSO relieves pain, reduces swelling, inflammation and much more. See 30 DMSO uses, from burns to scleroderma, plus directions, side effects, safety. DMSO pain relief is most frequently for muscles and joints. Applied to the skin, DMSO is an excellent anti-inflammatory and has many uses as a general pain reliever. It has been used with varying degrees of success in a great variety of medical ailments. Possible applications include:
+
+DMSO as long been used to promote healing. People who have it on hand often use it for minor cuts and burns and report that recovery is speedy. Several studies have documented DMSO use with soft tissue damage, local tissue death, skin ulcers, and burns.18-21.",what is dmso used for,"Based on the given passages, DMSO is used for various purposes, including:
+
+1. Industrial uses: As an antifreeze and solvent for a wide range of chemicals.
+2. Medical uses: To relieve pain, reduce swelling and inflammation, promote healing, and treat a variety of medical ailments such as burns, scleroderma, and soft tissue damage.
+3. Pain relief: For muscles and joints, and as a general pain reliever applied to the skin.
+4. Skin care: To penetrate skin and tissue and enter the bloodstream.
+
+Therefore, the answer to the question ""What is DMSO used for?"" can be summarized as: DMSO is used for various industrial, medical, and personal care purposes, including pain relief, wound healing, and skin care.",pass,14747
+"Oily Skin Causes. People with oily skin often wonder what they're doing to cause the problem. They may blame it on the greasy pizza they ate last night, but the truth is they should probably blame their genes.Diet can aggravate acne, but it doesn't cause oily skin [source: WebMD ].Oily skin is hereditary -- you can change your diet or change your lifestyle, but if your mom or dad has oily skin, chances are you will, too.However, if your oily skin comes and goes, it may have less to do with genes and more to do with hormonal shifts in your body.ily Skin Causes. People with oily skin often wonder what they're doing to cause the problem. They may blame it on the greasy pizza they ate last night, but the truth is they should probably blame their genes.
+
+Oily skin is a term commonly used to identify skin that feels ‘oily’ or appears ‘shiny’, especially the skin of the face. Before investigating the cause of your oily skin, it is important to first identify if this ‘oiliness’ is a natural phenomenon or due to poor hygiene and topical applications.ontrary to popular belief, your diet has a limited effect on the oiliness of the skin. A common myth is that oily foods, especially foods like chocolates and peanut butter, may increase the oil production. Alcohol is often thought to be responsible as well.
+
+Skin types include normal, oily, dry, and sensitive. Some people also have a combination of skin types in different areas of their skin. Your skin type can change over time. For example, younger people are more likely than older people to have a normal skin type. combination skin type can be dry or normal in some areas and oily in others, such as the T-zone (nose, forehead, and chin). Many people have combination skin, which may benefit from slightly different types of skin care in different areas. Combination skin can produce: 1  Overly dilated pores. 2  Blackheads. 3  Shiny skin.",factors that cause oily skin,"The factors that cause oily skin include hereditary factors, hormonal shifts, and certain skin types. If a person's parents have oily skin, they are likely to have it as well. Hormonal changes in the body can also cause the skin to become oily. Additionally, certain skin types, such as combination skin, can produce oily areas, particularly in the T-zone which includes the nose, forehead, and chin. Contrary to popular belief, diet and hygiene have limited effect on the oiliness of the skin.",pass,15672
+"1 Mood swings. 2  The flood of hormones in your body in early pregnancy can make you unusually emotional and weepy. 3  Mood swings also are common. 4  Dizziness. 5  Pregnancy causes your blood vessels to dilate and your blood pressure to drop. 6  As a result, you might find yourself feeling lightheaded or dizzy.
+
+The earliest signs of pregnancy are often easily overlooked. Many women know that a missed period may indicate pregnancy, but so can bloating, spotting, and cramping. Learn when and why symptoms occur in the first weeks of pregnancy.
+
+Around half of all pregnant women experience nausea and vomiting, and around 3 in 10 women experience nausea without vomiting. For most women who have morning sickness, the symptoms start around six weeks after their last period. Read more about coping with nausea and morning sickness in pregnancy.",earliest signs and symptoms of pregnancy,"Based on the given passages, the earliest signs and symptoms of pregnancy include:
+
+* Mood swings (Passage 1)
+* Dizziness (Passage 1)
+* Bloating (Passage 2)
+* Spotting (Passage 2)
+* Cramping (Passage 2)
+* Nausea and vomiting (Passage 3)
+
+These symptoms can start as early as six weeks into pregnancy, with mood swings and dizziness being some of the first noticeable signs. However, it's important to note that not all women experience these symptoms, and their severity can vary from one person to another.",fail,13919
+"Directions. Allow roast to stand at room temperature for at least 1 hour. Preheat the oven to 375 degree F. Rub roast with House Seasoning; place roast on a rack in the pan with the rib side down and the fatty side up.Roast for 1 hour.Turn off oven.irections. Allow roast to stand at room temperature for at least 1 hour. Preheat the oven to 375 degree F. Rub roast with House Seasoning; place roast on a rack in the pan with the rib side down and the fatty side up.
+
+1 Set oven to 450°F and allow the oven to preheat for a minimum of 15 minutes. 2  Season the roast with only a small amount of salt but lots of fresh ground black pepper pepper (that's all nothing else but a little salt and fresh ground black pepper, using any other spices will take away the flavor from the prime rib!). Set oven to 450°F and allow the oven to preheat for a minimum of 15 minutes. 2  Season the roast with only a small amount of salt but lots of fresh ground black pepper pepper (that's all nothing else but a little salt and fresh ground black pepper, using any other spices will take away the flavor from the prime rib!).
+
+1 While the roast is resting prepare the au jus; place the roasting pan on top of the stove over high heat. 2  Add in the wine; cook for 8-10 minutes, stirring and scraping any brown bits. 3  Add in the beef stock; cook and reduce the juice by half (this might take about 20 minutes). 4  Add salt and pepper to taste. Set oven to 450°F and allow the oven to preheat for a minimum of 15 minutes. 2  Season the roast with only a small amount of salt but lots of fresh ground black pepper pepper (that's all nothing else but a little salt and fresh ground black pepper, using any other spices will take away the flavor from the prime rib!).",how to cook a small prime rib roast in oven,"Based on the given passages, here are the steps to cook a small prime rib roast in the oven:
+
+1. Allow the roast to stand at room temperature for at least 1 hour.
+2. Preheat the oven to 375°F (or 450°F according to Passage 2).
+3. Rub the roast with House Seasoning (or season with salt and fresh ground black pepper according to Passage 2).
+4. Place the roast on a rack in a pan with the rib side down and the fatty side up.
+5. Roast for 1 hour (or until desired level of doneness is reached).
+6. Turn off the oven (or reduce heat to 350°F and continue to roast for an additional 15-20 minutes per pound for medium-rare, or 20-25 minutes per pound for medium).
+7. Let the roast rest for 10-15 minutes before slicing and serving.
+
+It's important to note that the temperature and cooking time may vary depending on the size and thickness of the roast, as well as personal preference for doneness. It's recommended to use a meat thermometer to ensure the roast reaches a safe internal temperature of at least 145°F for medium-rare, 160°F for medium, and 170°F for well-done.",fail,13163
+"Visit: http://www.facebook.com/beachbumlivin for up close pictures!! Layering stain for a cool effect! How to paint furniture then distress it to give your furniture that antique finish. Refinishing and painting furniture tips and techniques and using Stain to create a cool look.This weeks project I demonstrate how layering stain can give you a really cool look to your furniture project.It's a very simple finishing technique that anyone can accomplish and get great results! THANKS FOR SUBSCRIBING! :).efinishing and painting furniture tips and techniques and using Stain to create a cool look. This weeks project I demonstrate how layering stain can give you a really cool look to your furniture project. It's a very simple finishing technique that anyone can accomplish and get great results! THANKS FOR SUBSCRIBING! :).
+
+1 - Apply a layer of molding paste, which dries white. - 2  Mix in a rust or dull color, such as yellow ochre or paynes grey. - 3  Use a palette knife to spread the mixture over the canvas and let dry. - 4  Patty uses a stencil to create an embossed design with the remaining molding paste mixture. - Spread a layer of blue paint and dry this. - 2  Use a palette knife to spread on acrylic gel medium thinly, and let this dry also. - 3  Paint a thin layer with burnt seanna or an approximate color. 4  Dab this with a paper towel or cloth to remove excess paint. 5  Dry this.
+
+Paint your wood piece with a basecoat of flat or satin paint; satin paint is easier to work with, but flat paint results in an older look. Mix paint that’s two shades darker than your basecoat with an equal amount of glaze.Once your basecoat dries, drip a crumpled rag or plastic bag in the glaze mixture.ive new wood a vintage look with paint. You don’t have to wait decades for your wood pieces to acquire a vintage look. Instead, duplicate the age-worn finishes you see in antique stores with decorative painting techniques. You can give your wooden furniture, accessories and cabinetry a vintage patina in little time.",how to get antique effect on wood using normal paint,"Based on the given passages, here's a brief answer to the question:
+
+To get an antique effect on wood using normal paint, you can follow these steps:
+
+1. Apply a basecoat of flat or satin paint on your wood piece.
+2. Mix a glaze mixture by combining paint that's two shades darker than your basecoat with an equal amount of glaze.
+3. Once your basecoat dries, drip a crumpled rag or plastic bag in the glaze mixture and apply it to the wood.
+4. Let it dry and then use a palette knife to spread on acrylic gel medium thinly.
+5. Paint a thin layer with burnt sienna or an approximate color and dab it with a paper towel or cloth to remove excess paint.
+6. Allow it to dry completely to achieve an antique effect.
+
+However, if you want a more detailed guide or additional tips, you may need to consult additional sources beyond the given passages.",pass,14693
+"Monoamniotic twins occur when the split takes place after the ninth day after fertilization. Conjoined twins: When the division of the developing zygote into 2 embryos occurs, 99% of the time it is within 8 days of fertilization. Mortality is highest for conjoined twins due to the many complications resulting from shared organs.
+
+Dizygotic twin pregnancies are slightly more likely when the following factors are present in the woman: 1  She is of West African descent (especially Yoruba) 2  She is between the age of 30 and 40 years. 3  She is greater than average height and weight. 4  She has had several previous pregnancies.
+
+Twins are two offspring produced by the same pregnancy. Twins can be either monozygotic (identical), meaning that they develop from one zygote, which splits and forms two embryos, or dizygotic (fraternal), meaning that they develop from two different eggs. In fraternal twins, each twin is fertilized by its own sperm cell. In contrast, a fetus that develops alone in the womb is called a singleton, and the general term for one offspring of a multiple birth is multiple. Non-related look-alikes whose resemblance parallels that of twins are referred to as doppelgangers.",how do twins happen,"Based on the provided passages, here is how twins happen:
+
+* Monoamniotic twins: These twins occur when the split takes place after the ninth day after fertilization.
+* Conjoined twins: When the division of the developing zygote into 2 embryos occurs, it happens within 8 days of fertilization, and mortality is highest for conjoined twins due to the many complications resulting from shared organs.
+* Dizygotic twin pregnancies: These twins are slightly more likely to occur in women who are of West African descent (especially Yoruba), between the ages of 30 and 40, are taller and heavier than average, and have had several previous pregnancies.
+* Identical twins (monozygotic): These twins develop from one zygote, which splits and forms two embryos.
+* Fraternal twins (dizygotic): These twins develop from two different eggs, and each twin is fertilized by its own sperm cell.
+
+Unable to answer based on given passages: The passage does not provide information on the exact timing or mechanism of twinning beyond what is mentioned above.",pass,15009
+"1 Preheat an oven to 300 degrees F (150 degrees C). 2  Push torn pieces of bread through the shredding disk of a food processor to make coarse crumbs. 3  Spread the crumbs on a baking sheet. 4  Bake in preheated oven until crumbs are dry but not toasted, 6 to 8 minutes. Bake in preheated oven until crumbs are dry but not toasted, 6 to 8 minutes. 2  Shake the sheet twice during baking in order to evenly dry crumbs. 3  Remove from the oven and cool completely.
+
+Directions. 1  Push chunks of white bread through the shredding disk of a food processor to make coarse crumbs. 2  Spread the crumbs on a baking sheet and bake at 300 F degrees until the crumbs are dry but not toasted, about 6 to 8 minutes. 3  Shake the sheet twice during baking. Spread the crumbs on a baking sheet and bake at 300 F degrees until the crumbs are dry but not toasted, about 6 to 8 minutes. 2  Shake the sheet twice during baking. 3  Be careful not to let the crumbs brown!
+
+Preheat the oven to 300 degrees F. Place all of the ingredients into a blender carafe, cover and pulse until coarse crumbs form, about 2 minutes. Spread the crumbs evenly on 2 half sheet pans and bake until the crumbs just begin to brown and are crisp, about 5 minutes.Cool the crumbs on the pans for 15 to 20 minutes, and then transfer to an airtight container and store at room temperature for up to 2 weeks. Recipe courtesy of Alton Brown, 2011.pread the crumbs evenly on 2 half sheet pans and bake until the crumbs just begin to brown and are crisp, about 5 minutes. Cool the crumbs on the pans for 15 to 20 minutes, and then transfer to an airtight container and store at room temperature for up to 2 weeks. Recipe courtesy of Alton Brown, 2011.",how to make panko crumbs,"To make panko crumbs, you can follow these steps:
+
+1. Preheat an oven to 300 degrees F (150 degrees C).
+2. Torn pieces of bread or chunks of white bread can be pushed through the shredding disk of a food processor to make coarse crumbs.
+3. Spread the crumbs on a baking sheet.
+4. Bake in preheated oven until crumbs are dry but not toasted, 6 to 8 minutes. Be careful not to let the crumbs brown too much.
+5. Shake the sheet twice during baking to evenly dry crumbs.
+6. Remove from the oven and let the crumbs cool completely.
+7. Once cooled, transfer the crumbs to an airtight container and store at room temperature for up to 2 weeks.
+
+Note: Depending on the recipe, you may want to adjust the cooking time or ingredient proportions accordingly. Additionally, you can use any type of bread or mix in other ingredients like cheese or herbs for extra flavor.",fail,14846
+"When, how much and how often Indianapolis, Indiana has snow — with monthly and yearly averages for total days and inches of snowfall, snow accumulation, heavy snowstorms and first snowfall. Snowfall and snow accumulation averages for: Fort Wayne Gary & Michigan City South Bend. Hot, Humid Weather in Indiana
+
+Average Weather in Indianapolis Indiana, United States. In Indianapolis, the summers are long, warm, humid, and wet; the winters are chilly and windy; and it is partly cloudy year round. Over the course of the year, the temperature typically varies from 22°F to 85°F and is rarely below 3°F or above 92°F.
+
+Wettest year was recorded in 1876 at Indianapolis : 57.65 inches of measured rain. 1  Driest year was recorded in 1934 at Indianapolis : 24.97 inches of measured rain. 2  Most snow fall recorded in 1979 in Rockford : 74.5 inches in one season. 3  Maximum monthly precipitation: over 16 inches in July 2003 and 2004 at Kokomo .",typical weather in indiana,"Based on the given passages, the typical weather in Indiana includes long, warm, humid, and wet summers, and chilly and windy winters. The temperature ranges from 22°F to 85°F throughout the year. The passages also mention snowfall and snow accumulation in specific cities, but do not provide a comprehensive overview of the typical weather in Indiana. Therefore, it is not possible to provide a complete answer based solely on the given passages.",pass,12457
