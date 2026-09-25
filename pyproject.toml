@@ -8,6 +8,7 @@ dependencies = [
     "python-dotenv==1.2.3",
     "openai==3.16.2",
     "typesafe-sdk==0.7.1",
+    "ruff>=0.16.9",
 ]
 
 [tool.uv]
