@@ -6,16 +6,17 @@ https://docs.typesafe.ai/primitives/noul and https://docs.typesafe.ai/concepts/s
 
 from __future__ import annotations
 
+import os
 import time
+from typing import Self
 
 from typesafe_sdk import Noul, RetryPolicy, TypeSafeClient
 
 from src.judge import JudgeResult
+from src.prompts import CRITERION_PARTIAL_PROMPT
 
 CRITERION = Noul(
-    instructions=(
-        """Is the answer fully supported by the evidence? Every claim in the answer must be stated or directly implied by the evidence. An unsupported detail, a changed number or entity, or a hedge turned into an absolute all count as not fully supported, even if the claim happens to be true in the real world."""
-    ),
+    instructions=(CRITERION_PARTIAL_PROMPT),
     criteria={
         "true": "Every claim the answer makes is stated or directly implied by the evidence.",
         "false": "The answer makes at least one claim that the evidence does not state or imply.",
@@ -26,16 +27,19 @@ CRITERION = Noul(
 class JevJudge:
     """Faithfulness judge backed by Jev's Noul primitive."""
 
-    def __init__(self, api_key: str, model: str = "jev-1.13.0") -> None:
-        if not api_key:
-            raise ValueError("Typesafe API key is required")
-
-        self._client = TypeSafeClient(api_key=api_key, model=model, retry=RetryPolicy(max_retries=0))
+    def __init__(self, model: str = "jev-1.13.0") -> None:
+        self._client = TypeSafeClient(
+            api_key=os.environ["TYPESAFE_API_KEY"],
+            model=model,
+            retry=RetryPolicy(max_retries=0),
+        )
 
     def judge(self, evidence: str, question: str, answer: str) -> JudgeResult:
         state = {"evidence": evidence, "question": question, "answer": answer}
         start = time.perf_counter()
-        response = self._client.system_one(state=state, questions={"faithful": CRITERION})
+        response = self._client.system_one(
+            state=state, questions={"faithful": CRITERION}
+        )
         latency_s = time.perf_counter() - start
         return JudgeResult(
             score=response.nouls["faithful"].noul,
@@ -49,7 +53,7 @@ class JevJudge:
     def close(self) -> None:
         self._client.close()
 
-    def __enter__(self) -> "JevJudge":
+    def __enter__(self) -> Self:
         return self
 
     def __exit__(self, *exc: object) -> None:
