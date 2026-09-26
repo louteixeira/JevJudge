@@ -3,7 +3,10 @@
 from __future__ import annotations
 
 from dataclasses import dataclass, field
-from typing import Any, Protocol
+from typing import Any, Literal, Protocol
+
+PASS_THRESHOLD = 0.5
+"""A score at or above this is a "pass"""
 
 
 @dataclass(frozen=True)
@@ -22,6 +25,11 @@ class JudgeResult:
     """The model name that actually served the call"""
     extra_info: dict[str, Any] = field(default_factory=dict)
     """Judge-specific extras (request id, hyperparameters, etc.)"""
+
+    @property
+    def verdict(self) -> Literal["pass", "fail"]:
+        """The judge's decision, in the same vocabulary as the human `label`."""
+        return "pass" if self.score >= PASS_THRESHOLD else "fail"
 
 
 class Judge(Protocol):
