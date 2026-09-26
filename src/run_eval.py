@@ -5,7 +5,8 @@ JSONL file per judge (jev.jsonl, llm.jsonl) so the two can be compared line by l
     uv run python -m src.run_eval --judge jev        # only Jev (or: --judge llm)
     uv run python -m src.run_eval --limit 3          # smoke test
 
-Re-analyze later without new API calls: uv run python -m src.analyze
+The statistics for the run are printed when it finishes. Re-analyze every run later,
+without new API calls: uv run python -m src.analyze
 """
 
 from __future__ import annotations
@@ -19,9 +20,10 @@ from pathlib import Path
 
 from dotenv import load_dotenv
 
-from src.judge import Judge
-from src.llm import LLMJudge
-from src.system_one import JevJudge
+from src.analyze import summarize_run
+from src.judges.base import Judge
+from src.judges.llm import LLMJudge
+from src.judges.system_one import JevJudge
 
 ROOT = Path(__file__).resolve().parent.parent
 JUDGES = {"jev": JevJudge, "llm": LLMJudge}
@@ -93,6 +95,8 @@ def main() -> None:
     finally:
         for judge in judges.values():
             judge.close()
+
+    print(f"\n{summarize_run(run_dir)}")
 
 
 if __name__ == "__main__":
