@@ -52,7 +52,6 @@ uv sync
 cp .env.sample .env
 uv run python -m src.run_eval                        # both judges, all cases (--judge jev|llm, --limit N)
 uv run python -m src.analyze                         # statistics + scores.png chart for every run in results/
-uv run python scripts/fetch_ragtruth.py --force      # rebuild the dataset (optional)
 ```
 
 ## Attribution

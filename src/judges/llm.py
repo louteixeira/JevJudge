@@ -34,6 +34,7 @@ class LLMJudge:
             api_version=os.environ["AZURE_API_VERSION"],
             max_retries=0,
         )
+        self.temperature = 0.0
 
     def judge(self, evidence: str, question: str, answer: str) -> JudgeResult:
         human_prompt = LLM_JUDGE_HUMAN_PROMPT.format(
@@ -47,7 +48,7 @@ class LLMJudge:
                 {"role": "user", "content": human_prompt},
             ],
             response_format=Verdict,
-            temperature=0.0,
+            temperature=self.temperature,
         )
 
         latency_s = time.perf_counter() - start
@@ -66,7 +67,7 @@ class LLMJudge:
             input_tokens=usage.prompt_tokens if usage else None,
             output_tokens=usage.completion_tokens if usage else None,
             model=response.model,
-            extra_info={"request_id": response.id, "temperature": TEMPERATURE},
+            extra_info={"request_id": response.id, "temperature": self.temperature},
         )
 
     def close(self) -> None:
