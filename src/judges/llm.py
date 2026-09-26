@@ -47,6 +47,7 @@ class LLMJudge:
                 {"role": "user", "content": human_prompt},
             ],
             response_format=Verdict,
+            temperature=0.0,
         )
 
         latency_s = time.perf_counter() - start
@@ -65,7 +66,7 @@ class LLMJudge:
             input_tokens=usage.prompt_tokens if usage else None,
             output_tokens=usage.completion_tokens if usage else None,
             model=response.model,
-            extra_info={"request_id": response.id},
+            extra_info={"request_id": response.id, "temperature": TEMPERATURE},
         )
 
     def close(self) -> None:
