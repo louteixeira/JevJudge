@@ -46,7 +46,7 @@ def _evaluate(case_index: int, case: dict, judge_name: str, judge: Judge) -> dic
         result = judge.judge(evidence, question, answer)
     except Exception as error:  # noqa: BLE001 - one bad call must not abort the run
         return record | {"error": f"{type(error).__name__}: {error}"}
-    return record | asdict(result) | {"error": None}
+    return record | {"verdict": result.verdict} | asdict(result) | {"error": None}
 
 
 def run_judge(name: str, judge: Judge, cases: list[dict], path: Path) -> int:

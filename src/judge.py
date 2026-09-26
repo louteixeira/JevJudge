@@ -8,6 +8,9 @@ from typing import Any, Literal, Protocol
 PASS_THRESHOLD = 0.5
 """A score at or above this is a "pass"""
 
+REQUEST_TIMEOUT_S = 15.0
+"""HTTP timeout in seconds."""
+
 
 @dataclass(frozen=True)
 class JudgeResult:
