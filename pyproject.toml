@@ -1,7 +1,7 @@
 [project]
 name = "jev-judge"
 version = "0.1.0"
-description = "Does Jev (TypeSafe System One) work as an evaluator for grounded-QA faithfulness, compared with an LLM judge?"
+description = "Does Jev (System One) work as an evaluator for grounded-QA faithfulness, compared with an LLM judge?"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
@@ -9,6 +9,7 @@ dependencies = [
     "openai==3.16.2",
     "typesafe-sdk==0.7.1",
     "ruff>=0.16.9",
+    "matplotlib>=3.11.2",
 ]
 
 [tool.uv]

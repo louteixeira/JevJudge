@@ -2,7 +2,7 @@
 
 Can **Jev** (a System One decision model) judge whether an answer is grounded in its evidence, and how does it compare with an LLM-as-a-judge?
 
-We compare Jev with `gpt-4.1-mini`, taking into account both the complexity of the task and the importance of cost per call. For this job, a small, inexpensive LLM is the most realistic alternative to Jev.
+This small experiment compares Jev, a fast, intuition-based model, with `gpt-4.1-mini`. The baseline is deliberately a small LLM: the task is a simple yes/no check, and a judge runs on every output it checks, so cost per call matters. For this job, a small, inexpensive LLM seems like the realistic alternative to Jev.
 
 ## Experiment
 
@@ -27,6 +27,10 @@ On 150 human-labelled RAG answers, Jev was the better judge: more accurate, fast
 
 95% bootstrap confidence intervals in brackets. Verdict is `pass` when score >= 0.5, for both judges. Source run: `results/2026-09-26_20-41-56/` (`jev-1.13.0`, one call per case, LLM at temperature 0).
 
+![Score distributions: Jev puts most bad answers near 0 and spreads good answers across the range; the LLM scores most answers, good or bad, near 1](results/2026-09-26_20-41-56/scores.png)
+
+How each judge scored the 75 good answers (above the axis) and the 75 bad answers (below it). A good judge pushes blue to the right and orange to the left. Jev does this, except for a tail of good answers under 0.5. The LLM puts most answers of both kinds at 0.9 to 1.0, so no threshold can separate them.
+
 - **Jev beats this LLM baseline.** Compared case by case, Jev is ahead by 17 points (95% CI +7 to +28).
 - **Jev's scores separate good from bad answers well** (AUC 0.92: a random good answer scores higher than a random bad one 92% of the time). The LLM's barely do: it gave most answers, good or bad, 0.9 or more.
 - **At a 0.5 threshold Jev is strict.** Its scores run low: bad answers cluster under 0.2, but good ones spread across the whole range, so it rejected a third of the good answers. A Jev "pass" was right 48 times out of 53, while a "fail" is worth a second look, which means the threshold might need to be further tuned.
@@ -47,7 +51,7 @@ Requires [uv](https://docs.astral.sh/uv/). Fill in the keys in `.env`, and adjus
 uv sync
 cp .env.sample .env
 uv run python -m src.run_eval                        # both judges, all cases (--judge jev|llm, --limit N)
-uv run python -m src.analyze                         # statistics for every run in results/
+uv run python -m src.analyze                         # statistics + scores.png chart for every run in results/
 uv run python scripts/fetch_ragtruth.py --force      # rebuild the dataset (optional)
 ```
 

@@ -2,7 +2,9 @@
 
     uv run python -m src.analyze
     uv run python -m src.analyze > results/summary.md
+    uv run python -m src.analyze --no-plot     # tables only, no scores.png
 
+Also writes a score distribution chart, `scores.png`, into each run folder.
 Reads only the JSONL files written by run_eval.py; makes no API calls. Failed calls
 (`error` set) are left out of the statistics and counted as "Failed calls".
 """
@@ -17,7 +19,12 @@ import tomllib
 from bisect import bisect_left, bisect_right
 from pathlib import Path
 
+import matplotlib
+
 from src.judges.base import PASS_THRESHOLD
+
+matplotlib.use("Agg")  # write PNG files, never open a window
+import matplotlib.pyplot as plt
 
 ROOT = Path(__file__).resolve().parent.parent
 BOOTSTRAP_SAMPLES = 10_000
@@ -183,8 +190,58 @@ def _cost_ratio(llm: list[dict], jev: list[dict], pricing: dict) -> str | None:
     return f"Cost: the LLM costs {ratio:.1f}x as much as Jev per call, at the prices in pricing.toml."
 
 
-def summarize_run(run_dir: Path, pricing: dict) -> str | None:
-    """Markdown statistics for one run folder, or None if it has no JSONL files."""
+def _write_chart(run_dir: Path, records: dict[str, list[dict]]) -> Path:
+    """Histogram of each judge's scores, good answers above the axis and bad below.
+
+    A judge that separates them well puts good answers on the right and bad on the left.
+    """
+    fig, axes = plt.subplots(
+        1, len(records), figsize=(5.5 * len(records), 4.5), sharey=True, squeeze=False
+    )
+    bins = [i / 10 for i in range(11)]
+    for ax, (judge, recs) in zip(axes[0], records.items()):
+        ok = [r for r in recs if not r.get("error")]
+        good = [r["score"] for r in ok if r["label"] == "pass"]
+        bad = [r["score"] for r in ok if r["label"] == "fail"]
+        ax.hist(
+            good, bins=bins, color="#2a78d6", edgecolor="white", label="Good answers"
+        )
+        ax.hist(
+            bad,
+            bins=bins,
+            weights=[-1] * len(bad),
+            color="#eb6834",
+            edgecolor="white",
+            label="Bad answers",
+        )
+        ax.axhline(0, color="gray", linewidth=1)
+        ax.axvline(
+            PASS_THRESHOLD,
+            color="black",
+            linestyle="--",
+            label=f"Threshold {PASS_THRESHOLD}",
+        )
+        auc = f"  ·  AUC {_auc(good, bad):.2f}" if good and bad else ""
+        ax.set_title(
+            f"{JUDGE_NAMES.get(judge, judge)} ({ok[0]['model']}){auc}" if ok else judge,
+            loc="left",
+        )
+        ax.set_xlabel("Judge score")
+    axes[0][0].set_ylabel("Number of answers")
+    axes[0][0].yaxis.set_major_formatter(lambda v, _: f"{abs(v):.0f}")
+    axes[0][0].legend(loc="upper left")
+    fig.tight_layout()
+    out = run_dir / "scores.png"
+    fig.savefig(out, dpi=150)
+    plt.close(fig)
+    return out
+
+
+def summarize_run(run_dir: Path, pricing: dict, plot: bool = True) -> str | None:
+    """Markdown statistics for one run folder, or None if it has no JSONL files.
+
+    With `plot`, also writes the run's score distribution chart to <run>/scores.png.
+    """
     records = {p.stem: _load_records(p) for p in sorted(run_dir.glob("*.jsonl"))}
     if not records:
         return None
@@ -199,6 +256,8 @@ def summarize_run(run_dir: Path, pricing: dict) -> str | None:
         table += "\n\n" + _paired_difference(records["jev"], records["llm"])
         if ratio := _cost_ratio(records["llm"], records["jev"], pricing):
             table += "\n\n" + ratio
+    if plot and (chart := _write_chart(run_dir, records)):
+        table += f"\n\nScore chart: {chart.relative_to(ROOT).as_posix()}"
     return table
 
 
@@ -206,11 +265,14 @@ def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     parser.add_argument("--results", type=Path, default=ROOT / "results")
     parser.add_argument("--pricing", type=Path, default=PRICING_PATH)
+    parser.add_argument(
+        "--no-plot", action="store_true", help="skip writing scores.png per run"
+    )
     args = parser.parse_args()
     pricing = _load_pricing(args.pricing)
 
     summaries = [
-        summarize_run(d, pricing)
+        summarize_run(d, pricing, plot=not args.no_plot)
         for d in sorted(p for p in args.results.iterdir() if p.is_dir())
     ]
     summaries = [s for s in summaries if s]
@@ -230,6 +292,11 @@ def main() -> None:
             "Cost per 100 calls: mean tokens per call times the USD per million tokens"
         )
         print(f"in {args.pricing.name}; an estimate, not a billed amount.")
+    if not args.no_plot:
+        print(
+            "Score chart: good answers above the axis, bad answers below, per score bin;"
+        )
+        print("a judge that separates them puts good on the right and bad on the left.")
 
 
 if __name__ == "__main__":
