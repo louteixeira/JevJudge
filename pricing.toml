@@ -1,0 +1,11 @@
+# USD per million tokens, used by src/analyze.py for cost estimates.
+
+# TypeSafe published price: input only, output tokens are free.
+[jev]
+input = 0.042
+output = 0.0
+
+# gpt-4.1-mini listed price.
+[llm]
+input = 0.40
+output = 1.60
