@@ -10,8 +10,8 @@ import time
 from openai import AzureOpenAI
 from pydantic import BaseModel, Field
 
-from src.judge import JudgeResult
-from src.prompts import LLM_JUDGE_HUMAN_PROMPT, LLM_JUDGE_SYSTEM_PROMPT
+from src.judges.base import JudgeResult
+from src.judges.prompts import LLM_JUDGE_HUMAN_PROMPT, LLM_JUDGE_SYSTEM_PROMPT
 
 
 class Verdict(BaseModel):

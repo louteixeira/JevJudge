@@ -12,8 +12,8 @@ from typing import Self
 
 from typesafe_sdk import Noul, RetryPolicy, TypeSafeClient
 
-from src.judge import JudgeResult
-from src.prompts import CRITERION_PARTIAL_PROMPT
+from src.judges.base import JudgeResult
+from src.judges.prompts import CRITERION_PARTIAL_PROMPT
 
 CRITERION = Noul(
     instructions=(CRITERION_PARTIAL_PROMPT),
