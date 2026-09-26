@@ -2,7 +2,7 @@
 
 Can **Jev** (a System One decision model) judge whether an answer is grounded in its evidence, and how does it compare with an LLM-as-a-judge?
 
-This small experiment compares Jev, a fast, intuition-based model, with `gpt-4.1-mini`. The baseline is deliberately a small LLM: the task is a simple yes/no check, and a judge runs on every output it checks, so cost per call matters. For this job, a small, inexpensive LLM seems like the realistic alternative to Jev.
+This small experiment compares Jev, a fast, intuition-based model, with a conventional LLM (`gpt-4.1-mini`). The baseline is deliberately a small LLM: the task is a simple yes/no check, and a judge runs on every output it checks, so cost per call matters. For this job, a small, inexpensive LLM seems like the realistic alternative to Jev.
 
 ## Experiment
 
